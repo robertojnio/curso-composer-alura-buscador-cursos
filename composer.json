@@ -25,5 +25,7 @@
     },
     "scripts": {
         "cs":"phpcs --standard=PSR12"
-    }
+    },
+    "license": "GPL-3.0",
+    "bin": ["buscador-cursos"]
 }
